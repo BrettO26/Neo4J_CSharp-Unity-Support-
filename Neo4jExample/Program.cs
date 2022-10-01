@@ -14,7 +14,7 @@ namespace Neo4JExample
         #endregion
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! [OUTDATED EXAMPLE!]");
 
             int CustomPort = 11567; // Default Port is 11000 so this isnt needed.
             int PacketSize = 256; // The size of the return packets.

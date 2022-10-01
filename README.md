@@ -1,6 +1,6 @@
 # Neo4J_CSharp-Unity-Support-
 * A tool that i made that extends the Neo4j Driver example, allows you to easily get data from neo4j. This is and internal server so it can be used with Unity.
-#Important
+# Important
 * The example does not work with the Tool at the moment. i dont have time to fix it right now but the changes to fix it are simple.
 * Because i really dont have time im just going to paste what the console would tell you if you started it normally:
 * No arguments detected...\n" +

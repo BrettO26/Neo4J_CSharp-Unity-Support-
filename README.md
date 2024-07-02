@@ -1,3 +1,4 @@
+# Outdated: A very old (and poorly made) tool thats not helpful to the average user.
 # Neo4J_CSharp-Unity-Support-
 * A tool that i made that extends the Neo4j Driver example, allows you to easily get data from neo4j. This is and internal server so it can be used with Unity.
 # Important
